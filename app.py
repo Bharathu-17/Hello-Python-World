@@ -1,1 +1,1 @@
-print("Hello from App1\!")
+print("Hello from App1")
